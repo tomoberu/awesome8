@@ -17,3 +17,4 @@ module Awesome8
     # the framework and any gems in your application.
   end
 end
+
